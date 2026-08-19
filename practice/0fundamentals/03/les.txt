@@ -3,8 +3,4 @@ job
 cat
 boy
 girl
-<<<<<<< HEAD
 object
-=======
-hello
->>>>>>> test
